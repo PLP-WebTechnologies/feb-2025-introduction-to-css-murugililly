@@ -1,0 +1,13 @@
+#heading-one {
+ font-size: larger;
+ color:blueviolet;
+ font-style: italic;
+ font-weight: 800;
+}
+
+.the-exp {
+    font-size: medium;
+    color:rgb(16, 77, 77);
+    font-weight: 100;
+    font-style: times new roman;
+}
